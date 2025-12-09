@@ -3,7 +3,9 @@
 A comprehensive Power BI report built to analyze key business metrics, uncover insights, and support data-driven decision-making. This project includes an interactive dashboard, multiple data visuals, and a structured data model optimized for performance and usability.
 
 ## Dashboard File
-You can find the file for the dashboard here:[This is a power bi report](Power BI Dashborads.pbix)
+You can find the file for the dashboard here:
+
+[This is a power bi report](Power BI Dashborads.pbix)
 ### Skills Showcased
 This project put key Power BI features into practice. Here's what we mastered:
 -  🎨 **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
