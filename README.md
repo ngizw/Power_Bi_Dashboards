@@ -4,8 +4,12 @@ A comprehensive Power BI report built to analyze key business metrics, uncover i
 
 ## Dashboard File
 You can find the file for the dashboard here:
+<<<<<<< HEAD
 
 [This is a power bi report](Power BI Dashborads.pbix)
+=======
+[This is a Power BI report](Power BI Dashboards.pbix)
+>>>>>>> 36b37ca461e0f6eeb15bb7fc1d937d46e69ba04a
 ### Skills Showcased
 This project put key Power BI features into practice. Here's what we mastered:
 -  🎨 **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
@@ -28,15 +32,15 @@ This report is split into two distinct pages to provide both a high-level summar
 
 Page 1: high-level summary
 
-![Dashboard Page 1](Images\Summary_image.png)
+![Dashboard Page 1](Images/Summary_image.png)
 
-This Power BI dashboard analyzing Mega Coffee’s sales from 2016–2019. It presents yearly KPIs, total profit, cost, and sales quantities, with interactive filters. The visuals show profit trends by category and country, helping identify the most profitable regions and product categories.
+This Power BI dashboard analyzes Mega Coffee’s sales from 2016 to 2019. It presents yearly KPIs, total profit, cost, and sales quantities, with interactive filters. The visuals show profit trends by category and country, helping identify the most profitable regions and product categories.
 
 Page 2: a detailed analysis
 
-![Dashboard Page 2](Images\Map_image.png)
+![Dashboard Page 2](Images/Map_image.png)
 
-A global performance snapshot displaying yearly KPI achievements (2016–2019) and a map showing total profit distribution by country and category. It reveals strong international market presence and increasing KPI performance over time.
+A global performance snapshot displaying yearly KPI achievements (2016–2019) and a map showing total profit distribution by country and category. It reveals a strong international market presence and increasing KPI performance over time.
 
 ## Conclusion
 
