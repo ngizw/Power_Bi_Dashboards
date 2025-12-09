@@ -4,7 +4,8 @@ A comprehensive Power BI report built to analyze key business metrics, uncover i
 
 ## Dashboard File
 You can find the file for the dashboard here:
-[This is a Power BI report](https://github.com/ngizw/Power_Bi_Dashboards/blob/develop/PowerBI_Dashboards.pbix)
+[This is a Power BI report](./Power_BI_Dashboards.pbix)
+
 
 
 
