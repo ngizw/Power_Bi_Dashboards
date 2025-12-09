@@ -5,11 +5,20 @@ A comprehensive Power BI report built to analyze key business metrics, uncover i
 ## Dashboard File
 You can find the file for the dashboard here:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 [This is a power bi report](Power BI Dashborads.pbix)
 =======
 [This is a Power BI report](Power BI Dashboards.pbix)
 >>>>>>> 36b37ca461e0f6eeb15bb7fc1d937d46e69ba04a
+=======
+
+[Download Power BI Report](https://raw.githubusercontent.com/ngizw/Power_Bi_Dashboards/main/Power_BI_Dashboards.pbix)
+
+
+
+
+>>>>>>> 1ac97c20d35eb6884eea388ccfd7f2fb45fab35b
 ### Skills Showcased
 This project put key Power BI features into practice. Here's what we mastered:
 -  🎨 **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
